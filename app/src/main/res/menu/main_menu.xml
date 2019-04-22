@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_hourglass_empty_white_36dp"/>
+
+    <item android:title="Tests"
+        android:id="@+id/tests"
+        android:icon="@drawable/ic_assignment_white_36dp"/>
+
+    <item android:title="Analysis"
+        android:id="@+id/analysis"
+        android:icon="@drawable/ic_timeline_white_36dp"/>
+
+    <item android:title="Doubts"
+        android:id="@+id/doubts"
+        android:icon="@drawable/ic_chat_white_36dp"/>
+
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person" />
+</menu>
